@@ -1,1 +1,2 @@
-Three text files for testing purposes.
+Some text files for testing purposes.
+Hee-hee!
